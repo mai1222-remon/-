@@ -1,0 +1,32 @@
+.container {
+  width: 800px;
+
+}
+
+.yellow {
+  height: 100px;
+  background: yellow;
+
+
+}
+
+.blue {
+  height: 200px;
+  background: blue;
+  padding-right: 500px;
+ }
+
+.blue .yellow {
+  height: 200px;
+  width: 100px;
+   margin: 0 auto;
+
+  
+}
+
+.blue2{
+	margin-top: : 100px;
+	background: blue;
+	padding-top: 500px;
+
+}
